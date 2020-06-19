@@ -1,4 +1,4 @@
-# TreinaWeb: curso "AWS - EC2 - Fundamentos"
+# TreinaWeb: curso ["AWS - EC2 - Fundamentos"](https://www.treinaweb.com.br/curso/amazon-web-services-aws-ec2-elastic-compute-cloud-fundamentos)
 
 Esse repositório contém trechos de scripts e arquivos de configuração utilizados durante o curso de AWS - EC2 - Fundamentos.
 
